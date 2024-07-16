@@ -207,7 +207,7 @@ body{
 }
 
 .projects img{
-    height: 100%;
+    max-height: 100%;
     transition: 0.3s ;
 }
 
