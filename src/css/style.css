@@ -206,6 +206,10 @@ body{
     grid-template-columns: repeat(4, 1fr);
 }
 
+a{
+    max-height: 100%;
+}
+
 .projects img{
     max-height: 100%;
     transition: 0.3s ;
